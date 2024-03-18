@@ -18,7 +18,7 @@ const ComponenteCalendario = () => {
         style: 'cancel',
       },
       {
-        text: 'Criar Lembrete',
+        text: 'Criar Novo Lembrete',
         onPress: () => handleCreateReminder(date),
       },
     ]);
